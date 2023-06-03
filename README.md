@@ -1,1 +1,1 @@
-# quantum_transition_restoring_with_machine_learning
+# quantum_transition_restoration_with_machine_learning
